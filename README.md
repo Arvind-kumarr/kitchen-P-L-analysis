@@ -20,11 +20,3 @@ This project transforms raw financial data into actionable insights for kitchen 
 *   **Frontend/Hosting:** Streamlit
 *   **Data Manipulation:** Pandas, NumPy
 *   **Data Visualization:** Plotly / Matplotlib
-
-## 🚀 Installation & Local Execution
-To run this project locally, follow these steps:
-
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)
-   cd YOUR_REPO_NAME
